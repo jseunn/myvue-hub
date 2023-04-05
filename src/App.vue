@@ -26,6 +26,9 @@
                 <div class="dropdown-menu" aria-labelledby="homeDropdownMenuLink"><a class="dropdown-item" href="/../public/html/index.html">Rooms</a><a class="dropdown-item" href="/../public/index-2.html">Restaurants</a><a class="dropdown-item" href="index-3.html">Travel</a><a class="dropdown-item" href="index-4.html">Real Estate <span class="badge badge-info-light ms-1 mt-n1">New</span></a></div>
               </li>
               <li class="nav-item">
+                <router-link class="nav-link" :to="{name: 'Home'}">홈</router-link>
+              </li>
+              <li class="nav-item">
                 <router-link class="nav-link" :to="{name: 'Detail'}">상세페이지</router-link>
               </li>
               <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a>

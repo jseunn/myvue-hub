@@ -209,9 +209,9 @@
               <!-- place item-->
               <div class="w-100 h-100 hover-animate" data-marker-id="59c0c8e33b1527bfe2abaf92">
                 <div class="card h-100 border-0 shadow">
-                  <div class="card-img-top overflow-hidden gradient-overlay"> <img class="img-fluid" src="img/photo/sample1.PNG" alt="Modern, Well-Appointed Room"/><a class="tile-link" href="detail-rooms.html"></a>
+                  <div class="card-img-top overflow-hidden gradient-overlay"> <img class="img-fluid" src="/../html/img/photo/sample1.PNG" alt="Modern, Well-Appointed Room"/><a class="tile-link" href="detail-rooms.html"></a>
                     <div class="card-img-overlay-bottom z-index-20">
-                      <div class="d-flex text-white text-sm align-items-center"><img class="avatar avatar-border-white flex-shrink-0 me-2" src="img/avatar/avatar-0.jpg" alt="Pamela"/>
+                      <div class="d-flex text-white text-sm align-items-center"><img class="avatar avatar-border-white flex-shrink-0 me-2" src="/../html/img/avatar/avatar-0.jpg" alt="Pamela"/>
                         <div>Pamela</div>
                       </div>
                     </div>
@@ -222,7 +222,7 @@
                   </div>
                   <div class="card-body d-flex align-items-center">
                     <div class="w-100">
-                      <h6 class="card-title"><a class="text-decoration-none text-dark" href="detail-rooms.html">Modern, Well-Appointed Room</a></h6>
+                      <h6 class="card-title"><a class="text-decoration-none text-dark" href="/../html/detail-rooms.html">Modern, Well-Appointed Room</a></h6>
                       <div class="d-flex card-subtitle mb-3">
                         <p class="flex-grow-1 mb-0 text-muted text-sm">Private room</p>
                         <p class="flex-shrink-1 mb-0 card-stars text-xs text-end"><i class="fa fa-star text-warning"></i><i class="fa fa-star text-warning"></i><i class="fa fa-star text-warning"></i><i class="fa fa-star text-warning"></i><i class="fa fa-star text-warning"></i>
@@ -238,9 +238,9 @@
               <!-- place item-->
               <div class="w-100 h-100 hover-animate" data-marker-id="59c0c8e322f3375db4d89128">
                 <div class="card h-100 border-0 shadow">
-                  <div class="card-img-top overflow-hidden gradient-overlay"> <img class="img-fluid" src="img/photo/sample1.PNG" alt="Cute Quirky Garden apt, NYC adjacent"/><a class="tile-link" href="detail-rooms.html"></a>
+                  <div class="card-img-top overflow-hidden gradient-overlay"> <img class="img-fluid" src="/../html/img/photo/sample1.PNG" alt="Cute Quirky Garden apt, NYC adjacent"/><a class="tile-link" href="detail-rooms.html"></a>
                     <div class="card-img-overlay-bottom z-index-20">
-                      <div class="d-flex text-white text-sm align-items-center"><img class="avatar avatar-border-white flex-shrink-0 me-2" src="img/avatar/avatar-7.jpg" alt="John"/>
+                      <div class="d-flex text-white text-sm align-items-center"><img class="avatar avatar-border-white flex-shrink-0 me-2" src="/../html/img/avatar/avatar-7.jpg" alt="John"/>
                         <div>John</div>
                       </div>
                     </div>
@@ -251,7 +251,7 @@
                   </div>
                   <div class="card-body d-flex align-items-center">
                     <div class="w-100">
-                      <h6 class="card-title"><a class="text-decoration-none text-dark" href="detail-rooms.html">Cute Quirky Garden apt, NYC adjacent</a></h6>
+                      <h6 class="card-title"><a class="text-decoration-none text-dark" href="/../html/detail-rooms.html">Cute Quirky Garden apt, NYC adjacent</a></h6>
                       <div class="d-flex card-subtitle mb-3">
                         <p class="flex-grow-1 mb-0 text-muted text-sm">Entire apartment</p>
                         <p class="flex-shrink-1 mb-0 card-stars text-xs text-end"><i class="fa fa-star text-warning"></i><i class="fa fa-star text-warning"></i><i class="fa fa-star text-warning"></i><i class="fa fa-star text-warning"></i><i class="fa fa-star text-gray-300">                                  </i>
@@ -267,9 +267,9 @@
               <!-- place item-->
               <div class="w-100 h-100 hover-animate" data-marker-id="59c0c8e3a31e62979bf147c9">
                 <div class="card h-100 border-0 shadow">
-                  <div class="card-img-top overflow-hidden gradient-overlay"> <img class="img-fluid" src="img/photo/photo-1512917774080-9991f1c4c750.jpg" alt="Modern Apt - Vibrant Neighborhood!"/><a class="tile-link" href="detail-rooms.html"></a>
+                  <div class="card-img-top overflow-hidden gradient-overlay"> <img class="img-fluid" src="/../html/img/photo/photo-1512917774080-9991f1c4c750.jpg" alt="Modern Apt - Vibrant Neighborhood!"/><a class="tile-link" href="detail-rooms.html"></a>
                     <div class="card-img-overlay-bottom z-index-20">
-                      <div class="d-flex text-white text-sm align-items-center"><img class="avatar avatar-border-white flex-shrink-0 me-2" src="img/avatar/avatar-8.jpg" alt="Julie"/>
+                      <div class="d-flex text-white text-sm align-items-center"><img class="avatar avatar-border-white flex-shrink-0 me-2" src="/../html/img/avatar/avatar-8.jpg" alt="Julie"/>
                         <div>Julie</div>
                       </div>
                     </div>
@@ -280,7 +280,7 @@
                   </div>
                   <div class="card-body d-flex align-items-center">
                     <div class="w-100">
-                      <h6 class="card-title"><a class="text-decoration-none text-dark" href="detail-rooms.html">Modern Apt - Vibrant Neighborhood!</a></h6>
+                      <h6 class="card-title"><a class="text-decoration-none text-dark" href="/../html/detail-rooms.html">Modern Apt - Vibrant Neighborhood!</a></h6>
                       <div class="d-flex card-subtitle mb-3">
                         <p class="flex-grow-1 mb-0 text-muted text-sm">Entire apartment</p>
                         <p class="flex-shrink-1 mb-0 card-stars text-xs text-end"><i class="fa fa-star text-warning"></i><i class="fa fa-star text-warning"></i><i class="fa fa-star text-warning"></i><i class="fa fa-star text-gray-300">                                  </i><i class="fa fa-star text-gray-300">                                  </i>
@@ -296,9 +296,9 @@
               <!-- place item-->
               <div class="w-100 h-100 hover-animate" data-marker-id="59c0c8e3503eb77d487e8082">
                 <div class="card h-100 border-0 shadow">
-                  <div class="card-img-top overflow-hidden gradient-overlay"> <img class="img-fluid" src="img/photo/photo-1494526585095-c41746248156.jpg" alt="Sunny Private Studio-Apartment"/><a class="tile-link" href="detail-rooms.html"></a>
+                  <div class="card-img-top overflow-hidden gradient-overlay"> <img class="img-fluid" src="/../html/img/photo/photo-1494526585095-c41746248156.jpg" alt="Sunny Private Studio-Apartment"/><a class="tile-link" href="detail-rooms.html"></a>
                     <div class="card-img-overlay-bottom z-index-20">
-                      <div class="d-flex text-white text-sm align-items-center"><img class="avatar avatar-border-white flex-shrink-0 me-2" src="img/avatar/avatar-9.jpg" alt="Barbora"/>
+                      <div class="d-flex text-white text-sm align-items-center"><img class="avatar avatar-border-white flex-shrink-0 me-2" src="/../html/img/avatar/avatar-9.jpg" alt="Barbora"/>
                         <div>Barbora</div>
                       </div>
                     </div>
@@ -309,7 +309,7 @@
                   </div>
                   <div class="card-body d-flex align-items-center">
                     <div class="w-100">
-                      <h6 class="card-title"><a class="text-decoration-none text-dark" href="detail-rooms.html">Sunny Private Studio-Apartment</a></h6>
+                      <h6 class="card-title"><a class="text-decoration-none text-dark" href="/../html/detail-rooms.html">Sunny Private Studio-Apartment</a></h6>
                       <div class="d-flex card-subtitle mb-3">
                         <p class="flex-grow-1 mb-0 text-muted text-sm">Shared room</p>
                         <p class="flex-shrink-1 mb-0 card-stars text-xs text-end"><i class="fa fa-star text-warning"></i><i class="fa fa-star text-warning"></i><i class="fa fa-star text-warning"></i><i class="fa fa-star text-warning"></i><i class="fa fa-star text-gray-300">                                  </i>
@@ -325,9 +325,9 @@
               <!-- place item-->
               <div class="w-100 h-100 hover-animate" data-marker-id="59c0c8e39aa2eed0626e485d">
                 <div class="card h-100 border-0 shadow">
-                  <div class="card-img-top overflow-hidden gradient-overlay"> <img class="img-fluid" src="img/photo/photo-1522771739844-6a9f6d5f14af.jpg" alt="Mid-Century Modern Garden Paradise"/><a class="tile-link" href="detail-rooms.html"></a>
+                  <div class="card-img-top overflow-hidden gradient-overlay"> <img class="img-fluid" src="/../html/img/photo/photo-1522771739844-6a9f6d5f14af.jpg" alt="Mid-Century Modern Garden Paradise"/><a class="tile-link" href="detail-rooms.html"></a>
                     <div class="card-img-overlay-bottom z-index-20">
-                      <div class="d-flex text-white text-sm align-items-center"><img class="avatar avatar-border-white flex-shrink-0 me-2" src="img/avatar/avatar-10.jpg" alt="Jack"/>
+                      <div class="d-flex text-white text-sm align-items-center"><img class="avatar avatar-border-white flex-shrink-0 me-2" src="/../html/img/avatar/avatar-10.jpg" alt="Jack"/>
                         <div>Jack</div>
                       </div>
                     </div>
@@ -338,7 +338,7 @@
                   </div>
                   <div class="card-body d-flex align-items-center">
                     <div class="w-100">
-                      <h6 class="card-title"><a class="text-decoration-none text-dark" href="detail-rooms.html">Mid-Century Modern Garden Paradise</a></h6>
+                      <h6 class="card-title"><a class="text-decoration-none text-dark" href="/../html/detail-rooms.html">Mid-Century Modern Garden Paradise</a></h6>
                       <div class="d-flex card-subtitle mb-3">
                         <p class="flex-grow-1 mb-0 text-muted text-sm">Entire house</p>
                         <p class="flex-shrink-1 mb-0 card-stars text-xs text-end"><i class="fa fa-star text-warning"></i><i class="fa fa-star text-warning"></i><i class="fa fa-star text-warning"></i><i class="fa fa-star text-warning"></i><i class="fa fa-star text-warning"></i>
@@ -354,9 +354,9 @@
               <!-- place item-->
               <div class="w-100 h-100 hover-animate" data-marker-id="59c0c8e39aa2edasd626e485d">
                 <div class="card h-100 border-0 shadow">
-                  <div class="card-img-top overflow-hidden gradient-overlay"> <img class="img-fluid" src="img/photo/photo-1488805990569-3c9e1d76d51c.jpg" alt="Brooklyn Life, Easy to Manhattan"/><a class="tile-link" href="detail-rooms.html"></a>
+                  <div class="card-img-top overflow-hidden gradient-overlay"> <img class="img-fluid" src="/../html/img/photo/photo-1488805990569-3c9e1d76d51c.jpg" alt="Brooklyn Life, Easy to Manhattan"/><a class="tile-link" href="detail-rooms.html"></a>
                     <div class="card-img-overlay-bottom z-index-20">
-                      <div class="d-flex text-white text-sm align-items-center"><img class="avatar avatar-border-white flex-shrink-0 me-2" src="img/avatar/avatar-11.jpg" alt="Stuart"/>
+                      <div class="d-flex text-white text-sm align-items-center"><img class="avatar avatar-border-white flex-shrink-0 me-2" src="/../html/img/avatar/avatar-11.jpg" alt="Stuart"/>
                         <div>Stuart</div>
                       </div>
                     </div>
@@ -367,7 +367,7 @@
                   </div>
                   <div class="card-body d-flex align-items-center">
                     <div class="w-100">
-                      <h6 class="card-title"><a class="text-decoration-none text-dark" href="detail-rooms.html">Brooklyn Life, Easy to Manhattan</a></h6>
+                      <h6 class="card-title"><a class="text-decoration-none text-dark" href="/../html/detail-rooms.html">Brooklyn Life, Easy to Manhattan</a></h6>
                       <div class="d-flex card-subtitle mb-3">
                         <p class="flex-grow-1 mb-0 text-muted text-sm">Private room</p>
                         <p class="flex-shrink-1 mb-0 card-stars text-xs text-end"><i class="fa fa-star text-warning"></i><i class="fa fa-star text-warning"></i><i class="fa fa-star text-warning"></i><i class="fa fa-star text-warning"></i><i class="fa fa-star text-gray-300">                                  </i>
@@ -405,19 +405,19 @@
             <div class="col-lg-2 col-md-6 mb-5 mb-lg-0">
               <h6 class="text-uppercase text-dark mb-3">Rentals</h6>
               <ul class="list-unstyled">
-                <li><a class="text-muted" href="index.html">Rooms</a></li>
-                <li><a class="text-muted" href="category-rooms.html">Map on top</a></li>
-                <li><a class="text-muted" href="category-2-rooms.html">Side map</a></li>
-                <li><a class="text-muted" href="category-3-rooms.html">No map</a></li>
-                <li><a class="text-muted" href="detail-rooms.html">Room detail</a></li>
+                <li><a class="text-muted" href="/../html/index.html">Rooms</a></li>
+                <li><a class="text-muted" href="/../html/category-rooms.html">Map on top</a></li>
+                <li><a class="text-muted" href="/../html/category-2-rooms.html">Side map</a></li>
+                <li><a class="text-muted" href="/../html/category-3-rooms.html">No map</a></li>
+                <li><a class="text-muted" href="/../html/detail-rooms.html">Room detail</a></li>
               </ul>
             </div>
             <div class="col-lg-2 col-md-6 mb-5 mb-lg-0">
               <h6 class="text-uppercase text-dark mb-3">Pages</h6>
               <ul class="list-unstyled">
-                <li><a class="text-muted" href="compare.html">Comparison                                   </a></li>
-                <li><a class="text-muted" href="team.html">Team                                   </a></li>
-                <li><a class="text-muted" href="contact.html">Contact                                   </a></li>
+                <li><a class="text-muted" href="/../html/compare.html">Comparison                                   </a></li>
+                <li><a class="text-muted" href="/../html/team.html">Team                                   </a></li>
+                <li><a class="text-muted" href="/../html/contact.html">Contact                                   </a></li>
               </ul>
             </div>
             <div class="col-lg-4">
@@ -442,10 +442,10 @@
             </div>
             <div class="col-md-6">
               <ul class="list-inline mb-0 mt-2 mt-md-0 text-center text-md-end">
-                <li class="list-inline-item"><img class="w-2rem" src="img/visa.svg" alt="..."></li>
-                <li class="list-inline-item"><img class="w-2rem" src="img/mastercard.svg" alt="..."></li>
-                <li class="list-inline-item"><img class="w-2rem" src="img/paypal.svg" alt="..."></li>
-                <li class="list-inline-item"><img class="w-2rem" src="img/western-union.svg" alt="..."></li>
+                <li class="list-inline-item"><img class="w-2rem" src="/../html/img/visa.svg" alt="..."></li>
+                <li class="list-inline-item"><img class="w-2rem" src="/../html/img/mastercard.svg" alt="..."></li>
+                <li class="list-inline-item"><img class="w-2rem" src="/../html/img/paypal.svg" alt="..."></li>
+                <li class="list-inline-item"><img class="w-2rem" src="/../html/img/western-union.svg" alt="..."></li>
               </ul>
             </div>
           </div>
